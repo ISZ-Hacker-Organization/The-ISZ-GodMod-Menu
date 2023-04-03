@@ -1,0 +1,14 @@
+Disigne:
+
+Folder Color: Blue
+Code color: Blue
+Search Option: Disable
+Hex editor: Disable
+OSD Notification: ISZ GodMod Menu 
+                  Plugin Ready !
+                  Good Game
+                  
+                  color: Bleu and Graey
+                  
+                  
+  
