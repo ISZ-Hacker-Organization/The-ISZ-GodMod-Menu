@@ -1,0 +1,60 @@
+The codes that will be in the plugin:
+
+[++Status Code++]
+-Random Status
+-All status Max
+-Unlock all outfits
+-Inventory never lost
+-Healt and fitness to 9999
+
+[++Weapons++]
+-Aimbot (With option to choose the player you want to kill)
+-SpyWeapons
+-RapidFire
+-NoRecoilV2
+-NoReload
+-MaxAmmo
+-AllSlotMax
+-FireCode
+-CrashKnife
+-DeleteAllSlots
+
+[++Spam Sound++]
+(Spam an awful noise)
+-Earrape
+-SpamFlashlight
+-SpamEnginePart
+-Snowplow
+-Dead
+-Door (dont realy work)
+-Snowcat
+-Dogsled
+-Snowmobie
+
+[++Time Code++]
+-OnlineTime
+SpamDayOnline
+DayChanger
+Time-2:-8
+StopTime
+ResumeTime
+
+[++3D Model++]
+Option for you change to:
+-Zombie
+-Big Zombie
+-Goose
+
+[--]
+-Goose controller (with 100% of the capacity of a bird)
+-Zombie Controller (with 50% of the capacity of a zombie)
+
+[++Info Displayer++]
+-Show Coordinate
+-Kill Counter
+-Clock
+
+[--]
+
+these are the codes currently in it but there are hundreds of others not yet set that will arrive
+
