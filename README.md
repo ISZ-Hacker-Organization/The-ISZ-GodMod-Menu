@@ -11,7 +11,7 @@
 - Invisible Online.
 
 # Download:
-- Beta Version [v0.1 (WIP) Download]().
+- Beta Version [v0.1 (WIP) Download](https://github.com/ISZ-Hacker-Organization/The-ISZ-GodMod-Menu/raw/main/IszGodModMenuBETTA.3gx).
 
 # Image Gallery:
 
@@ -21,7 +21,7 @@
 # Version Information:
 
 ## Current Version:
-- **Version v0.1 (Beta) - Date: 06/05/2023 - [Download]()**.
+- **Version v0.1 (Beta) - Date: 06/05/2023 - [Download](https://github.com/ISZ-Hacker-Organization/The-ISZ-GodMod-Menu/raw/main/IszGodModMenuBETTA.3gx)**.
 
 ### Older Version(s):
 - **Version v3 (Alpha) - Date: 03/26/2023 - [Download]()**.
