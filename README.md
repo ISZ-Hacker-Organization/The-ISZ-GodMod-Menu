@@ -15,9 +15,8 @@
 
 # Image Gallery:
 
-<img src="https://user-images.githubusercontent.com/114985285/229461866-13f906b3-5091-4081-8cf3-489e378474da.png" alt="Image 1" width="320" height="240"/>
-
-<img src="https://user-images.githubusercontent.com/114985285/229461916-e7557452-bb3b-4e6b-9b60-012e79bc135b.png" alt="Image 2" width="320" height="240"/>
+<img src="https://user-images.githubusercontent.com/114985285/229461866-13f906b3-5091-4081-8cf3-489e378474da.png" alt="Image 1" width="320" height="220"/>
+<img src="https://user-images.githubusercontent.com/114985285/229461916-e7557452-bb3b-4e6b-9b60-012e79bc135b.png" alt="Image 2" width="320" height="220"/>
 
 # Version
 -------------------------------
