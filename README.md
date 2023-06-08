@@ -1,12 +1,24 @@
 # The-ISZ-GodMod-Menu
-3GX plugin in progress by the ice station z community.
+- A Powerful Ice Station Z CTRPF 3GX Plugin. Made for and by The Community.
 
+# Features:
+- Normal (but awesome) Status, Weapon, UI, Time & Status Codes.
+- Display Stats, Coordinates, and Status' in real-time.
+- Additional Cool (and quite perfectly) Working Codes.
+- Advanced Server Codes.
 
-A .3gx plugin is being created for the community, here you can find information on how to help in the development of the plugin or find out about certain code !!!
-=============================================================================================================================================
+- 3D Model Changer.
+- Invisible Online.
 
-![Capture d’écran (1187)](https://user-images.githubusercontent.com/114985285/229461866-13f906b3-5091-4081-8cf3-489e378474da.png)
-![Capture d’écran (1189)](https://user-images.githubusercontent.com/114985285/229461916-e7557452-bb3b-4e6b-9b60-012e79bc135b.png)
+# Download:
+- Beta Version [v0.1 (WIP) Download]().
+
+# Image Gallery:
+
+<img src="https://user-images.githubusercontent.com/114985285/229461866-13f906b3-5091-4081-8cf3-489e378474da.png" alt="Image 1" width="320" height="240"/>
+
+<img src="https://user-images.githubusercontent.com/114985285/229461916-e7557452-bb3b-4e6b-9b60-012e79bc135b.png" alt="Image 2" width="320" height="240"/>
+
 # Version
 -------------------------------
 -Betta: betta version of the plugin with some bugs to fix, version 0.1 in progress.
