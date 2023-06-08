@@ -6,9 +6,7 @@
 - Display Stats, Coordinates, and Status' in real-time.
 - Additional Cool (and quite perfectly) Working Codes.
 - Advanced Server Codes.
-
 - 3D Model Changer.
-- Invisible Online.
 
 # Download:
 - Beta Version [v0.1 (WIP) Download](https://github.com/ISZ-Hacker-Organization/The-ISZ-GodMod-Menu/raw/main/IszGodModMenuBETTA.3gx).
