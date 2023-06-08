@@ -17,7 +17,9 @@
 
 <img src="https://user-images.githubusercontent.com/114985285/229461866-13f906b3-5091-4081-8cf3-489e378474da.png" alt="Image 1" width="320" height="200"/>
 <img src="https://user-images.githubusercontent.com/114985285/229461916-e7557452-bb3b-4e6b-9b60-012e79bc135b.png" alt="Image 2" width="320" height="200"/>
-![image](https://github.com/ISZ-Hacker-Organization/The-ISZ-GodMod-Menu/assets/114985285/6ca235a1-cb9b-4b33-b864-d1fec0d87373)
+
+![image](https://github.com/ISZ-Hacker-Organization/The-ISZ-GodMod-Menu/assets/114985285/f792a417-5e2a-4d0a-9822-96dca16fb53c)
+
 
 
 # Version Information:
