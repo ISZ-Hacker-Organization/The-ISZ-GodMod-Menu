@@ -24,6 +24,6 @@
 - **Version v0.1 (Beta) - Date: 06/05/2023 - [Download](https://github.com/ISZ-Hacker-Organization/The-ISZ-GodMod-Menu/raw/main/IszGodModMenuBETTA.3gx)**.
 
 ### Older Version(s):
-- **Version v3 (Alpha) - Date: 03/26/2023 - [Download](https://github.com/ISZ-Hacker-Organization/The-ISZ-GodMod-Menu/blob/main/old_versions/God-ModMenu%20-%20Version%20v3%20(Alpha).3gx)**.
-- **Version v2 (Alpha) - Date: 03/25/2023 - [Download](https://github.com/ISZ-Hacker-Organization/The-ISZ-GodMod-Menu/blob/main/old_versions/God-ModMenu%20-%20Version%20v2%20(Alpha).3gx)**.
-- **Version v1 (Alpha) - Date: 03/23/2023 - [Download](https://github.com/ISZ-Hacker-Organization/The-ISZ-GodMod-Menu/blob/main/old_versions/God-ModMenu%20-%20Version%20v1%20(Alpha).3gx)**.
+- **Version v3 (Alpha) - Date: 03/26/2023 - [Download](https://github.com/ISZ-Hacker-Organization/The-ISZ-GodMod-Menu/raw/main/old_versions/God-ModMenu%20-%20Version%20v3%20(Alpha).3gx)**.
+- **Version v2 (Alpha) - Date: 03/25/2023 - [Download](https://github.com/ISZ-Hacker-Organization/The-ISZ-GodMod-Menu/raw/main/old_versions/God-ModMenu%20-%20Version%20v2%20(Alpha).3gx)**.
+- **Version v1 (Alpha) - Date: 03/23/2023 - [Download](https://github.com/ISZ-Hacker-Organization/The-ISZ-GodMod-Menu/raw/main/old_versions/God-ModMenu%20-%20Version%20v1%20(Alpha).3gx)**.
