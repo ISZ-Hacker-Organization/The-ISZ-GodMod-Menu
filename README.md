@@ -21,7 +21,9 @@
 # Version Information:
 
 ## Current Version:
-- **Version v0.1 (Beta) - Date: **.
+- **Version v0.1 (Beta) - Date: 06/05/2023 - [Download]()**.
 
 ### Older Version(s):
-- **Version v3 (Alpha) - 
+- **Version v3 (Alpha) - Date: 03/26/2023 - [Download]()**.
+- **Version v2 (Alpha) - Date: 03/25/2023 - [Download]()**.
+- **Version v1 (Alpha) - Date: 03/23/2023 - [Download]()**.
